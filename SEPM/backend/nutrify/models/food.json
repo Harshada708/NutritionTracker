@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Butter Chicken",
+        "calories": 320,
+        "protein": 25,
+        "carbohydrates": 15,
+        "fat": 20,
+        "fiber": 2
+    },
+    {
+        "name": "Paneer Tikka Masala",
+        "calories": 280,
+        "protein": 18,
+        "carbohydrates": 12,
+        "fat": 15,
+        "fiber": 3
+    },
+    {
+        "name": "Chana Masala",
+        "calories": 220,
+        "protein": 10,
+        "carbohydrates": 30,
+        "fat": 8,
+        "fiber": 7
+    },
+    {
+        "name": "Palak Paneer",
+        "calories": 250,
+        "protein": 15,
+        "carbohydrates": 20,
+        "fat": 12,
+        "fiber": 5
+    },
+    {
+        "name": "Aloo Gobi",
+        "calories": 180,
+        "protein": 8,
+        "carbohydrates": 25,
+        "fat": 10,
+        "fiber": 6
+    },
+    {
+        "name": "Dal Makhani",
+        "calories": 290,
+        "protein": 20,
+        "carbohydrates": 35,
+        "fat": 12,
+        "fiber": 8
+    },
+    {
+        "name": "Samosa",
+        "calories": 120,
+        "protein": 5,
+        "carbohydrates": 15,
+        "fat": 7,
+        "fiber": 2
+    },
+    {
+        "name": "Chicken Biryani",
+        "calories": 380,
+        "protein": 30,
+        "carbohydrates": 40,
+        "fat": 18,
+        "fiber": 3
+    },
+    {
+        "name": "Vegetable Pulao",
+        "calories": 250,
+        "protein": 8,
+        "carbohydrates": 45,
+        "fat": 10,
+        "fiber": 4
+    },
+    {
+        "name": "Masoor Dal",
+        "calories": 200,
+        "protein": 12,
+        "carbohydrates": 30,
+        "fat": 6,
+        "fiber": 9
+    }
+]
